@@ -255,3 +255,6 @@ See [here](http://yoshiharuyamashita.com/post/hugo-shortcode-to-show-multiple-im
 ## License
 
 * [MIT](//opensource.org/licenses/MIT)
+
+## Update Log
+* add katex
